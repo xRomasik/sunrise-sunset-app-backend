@@ -11,7 +11,7 @@ Clone the repository using `git clone` command and the repository link. \
 Run `python -m venv venv` to create your virtual environment. \
 Run `venv\Scripts\activate` to activate venv. \
 Run `pip install -r requirements.txt` to install all requirements. \
-Finally, you can start the server using `python server.py`. \
+Finally, you can start the server using `python server.py`. 
 
 Make sure, that the frontend part is also running and open http://localhost:3000 in your browser. \
 Now choose desired country and date, click on SHOW and it should work. You can also check the server response in your terminal.
